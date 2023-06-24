@@ -14,3 +14,5 @@ i also used a noise generating header called FastNoiseLite by Auburn:
 https://github.com/Auburn/FastNoiseLite/tree/master/Cpp
 
 i did not upload the external libraries, because it would have taken a long time
+
+the executable is built for 64-bit windows
