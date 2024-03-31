@@ -3,5 +3,3 @@ pár plusz infó
 a játék futtatásához elég ennek a mappának a tartalma
 
 J-vel lehet görgetni a textúrákat (ez kimaradt a felhasználói dokumentációból)
-
-utólag belegondolva szerintem több, mint 40 órám volt benne (inkább 80)
